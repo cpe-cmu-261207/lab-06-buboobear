@@ -18,3 +18,4 @@ npm run dev
 
 (ใส่ URL ที่นี่)
 http://myweb.cmu.ac.th/jedsadaporn_juntong/261207/lab-06/
+https://zqs67z.sse.codesandbox.io/

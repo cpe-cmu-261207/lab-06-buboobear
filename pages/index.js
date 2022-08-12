@@ -7,7 +7,7 @@ import {
 
 import { useState } from "react";
 import axios from "axios";
-import UserCard from "../components/userCard";
+import UserCard from "../components/UserCard";
 
 export default function Home() {
     const [inputNumber, setInputNumber] = useState(1);
